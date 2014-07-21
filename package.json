@@ -1,0 +1,22 @@
+{
+  "name": "react-graph",
+  "version": "0.0.0",
+  "description": "react-graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taddei/react-graph.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nicolo Taddei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taddei/react-graph/issues"
+  },
+  "homepage": "https://github.com/taddei/react-graph"
+}
